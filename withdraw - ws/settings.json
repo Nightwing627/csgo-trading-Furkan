@@ -1,0 +1,43 @@
+{
+	"Autowithdraw": {
+		"Min_coin": 25,
+		"Max_coin": 500,
+		"Included_name": ["gloves", "wraps", "m4", "usp", "glock", "navaja", "karambit", "awp", "butterfly", "gut", "huntsman", "flip knife", "bayonet", "ak-47", "bowie", "talon"],
+		"Excluded_name": ["★ Stat", "vanilla", "Desert Eagle | Crimson Web", "Flip Knife | Crimson Web", "Navaja Knife | Damascus", "Flip Knife | Case Hardened (Battle-Scarred)", "souvenir", "twilight", "M4A4 | Tornado", "AK-47 | First Class", "Glock-18 | Nuclear Garden", "USP-S | Para Green (Factory New)", "Glock-18 | Sand Dune", "Glock-18 | Synth Leaf", "Black Laminate (Factory New)", "Glock-18 | Reactor", "AK-47 | Red Laminate", "Glock-18 | Night"],
+		"Bypass_included": ["Doppler (Fac", "Tiger", "Fade"],
+		"Custom_price": true,
+		"Max_custom_price": 2,
+		"Min_waxpeer_listings" : 2,
+		"Min_wax_profit" : 20,
+		"Min_buff_profit" : 4,
+		"Min_market_profit" : 15,
+		"Min_market_listings" : 2,
+		"Market_fee" : 7,
+		"Max_profit" : 80,
+		"Price_source" : "buff"
+	},
+	"Settings": {
+		"Website" : "csgoempire-ws",
+		"Domain" : "com-gg",
+		"Buff_fee" : false,
+		"Buff_price" : "buy",
+		"Debug_mode" : true,
+		"Print_delays" : false,
+		"Print_date" : true,
+		"Delay" : 0.85,
+		"Timeout" : 40,
+		"Skip_out_of_range" : true,
+		"Skip_unwanted" : true,
+		"Withdraw_only_once" : false,
+		"Skip_first_load" : false,
+		"Coin_to_usd" : 0.5935,
+		"Yuan_to_usd" : 0.1460408
+	},
+	"Authentification": {
+		"Empire_cookies" : "__cfduid=d6678386dcf403eb0c994c657719217591600361831; _ga=GA1.2.327178174.1600361847; _gid=GA1.2.2101342909.1600361847; _hjid=f221d286-b4b7-4a7a-b002-66c567892b27; _hjAbsoluteSessionInProgress=0; data=1555ad5868ca24f76e51d69bb6d875c7; __cf_bm=d56a02f61a5dbe8669b98e47763b043e0417ac0c-1600371360-1800-ATgTS2LJ8LEYPJ+sjVmL3qhlrSXhHD2sJiqs5WcmlMHxqGSQtIyBuDNTeEWOh5lZ7gTyBDUtTtnRO9G9HfbDN24=; PHPSESSID=hucmnlco0f1hfu9lcklk60pajt; do_not_share_this_with_anyone_not_even_staff=6078616_xKTLuAr84E373SOfBzB1uQFoq2kG6CIbP4wdv9aUaTrPSjbKEjwnTlmbzdjv",
+		"Empire_pin" : "0000",
+		"Empire_uuid" : "4a66eb55-de12-440e-b5ce-e4dcec318d9a",
+		"Rollbit_cookies" : "I'm stuck in a basement i'm getting whipped to code",
+		"Rollbit_useragent" : "please help me call 911"
+	}
+}

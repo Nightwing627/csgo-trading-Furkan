@@ -1,0 +1,35 @@
+﻿16/11 15:38  Price:"53.62" Coins:90.35 Name:"AWP | Asiimov (Field-Tested)" S:  4% B:  3% Custom price : 0% Website : csgoempire-ws
+16/11 18:09  Price:"53.62" Coins:90.35 Name:"AWP | Asiimov (Field-Tested)" S:  4% B:  3% Custom price : 0% Website : csgoempire-ws
+16/11 18:28  Price:"95.13" Coins:160.29 Name:"★ Hand Wraps | Duct Tape (Minimal Wear)" S: 11% B:  7% Custom price : 0% Website : csgoempire-ws
+16/11 22:36  Price:"56.38" Coins:95.0 Name:"★ Driver Gloves | Convoy (Battle-Scarred)" S: 15% B:  5% Custom price : 0% Website : csgoempire-ws
+17/11 12:22  Price:"53.91" Coins:90.84 Name:"AWP | Asiimov (Field-Tested)" S:  5% B:  4% Custom price : 0% Website : csgoempire-ws
+18/11 01:51  Price:"145.23" Coins:244.7 Name:"★ Bayonet | Case Hardened (Battle-Scarred)" S: 10% B:  2% Custom price : 5% Website : csgoempire-ws
+18/11 08:20  Price:"60.39" Coins:101.76 Name:"★ StatTrak™ Navaja Knife | Crimson Web (Field-Tested)" S: 41% B:  2% Custom price : 0% Website : csgoempire-ws
+18/11 08:32  Price:"143.01" Coins:240.96 Name:"★ Karambit | Urban Masked (Field-Tested)" S:  8% B:  3% Custom price : 0% Website : csgoempire-ws
+18/11 10:14  Price:"80.83" Coins:136.19 Name:"M4A4 | Asiimov (Field-Tested)" S:  5% B:  4% Custom price : 0% Website : csgoempire-ws
+19/11 13:21  Price:"47.41" Coins:79.88 Name:"Desert Eagle | Emerald Jörmungandr (Factory New)" S:  5% B:  5% Custom price : 0% Website : csgoempire-ws
+19/11 13:32  Price:"212.31" Coins:357.73 Name:"★ Butterfly Knife | Stained (Minimal Wear)" S: 10% B:  7% Custom price : 0% Website : csgoempire-ws
+20/11 02:02  Price:"59.48" Coins:100.22 Name:"USP-S | Kill Confirmed (Minimal Wear)" S:  6% B:  4% Custom price : 0% Website : csgoempire-ws
+24/11 11:36  Price:"56.57" Coins:95.32 Name:"★ Bowie Knife | Boreal Forest (Field-Tested)" S: 13% B:  6% Custom price : 0% Website : csgoempire-ws
+24/11 14:07  Price:"173.27" Coins:291.95 Name:"★ Butterfly Knife | Scorched (Field-Tested)" S:  4% B:  2% Custom price : 0% Website : csgoempire-ws
+27/11 07:52  Price:"96.09" Coins:161.91 Name:"AK-47 | Vulcan (Minimal Wear)" S:  4% B:  2% Custom price : 0% Website : csgoempire-ws
+27/11 11:43  Price:"57.23" Coins:96.43 Name:"★ Bowie Knife | Scorched (Field-Tested)" S:  8% B:  2% Custom price : 0% Website : csgoempire-ws
+27/11 15:17  Price:"71.54" Coins:120.54 Name:"AK-47 | The Empress (Factory New)" S:  5% B:  4% Custom price : 0% Website : csgoempire-ws
+27/11 15:28  Price:"71.54" Coins:120.54 Name:"AK-47 | The Empress (Factory New)" S:  5% B:  4% Custom price : 0% Website : csgoempire-ws
+28/11 14:50  Price:"89.66" Coins:151.07 Name:"★ Bayonet | Safari Mesh (Field-Tested)" S:  6% B:  3% Custom price : 0% Website : csgoempire-ws
+30/11 15:32  Price:"85.00" Coins:143.21 Name:"★ Hydra Gloves | Emerald (Field-Tested)" S:  4% B:  3% Custom price : 0% Website : csgoempire-ws
+30/11 15:58  Price:"85.00" Coins:143.21 Name:"★ Hydra Gloves | Emerald (Field-Tested)" S:  4% B:  3% Custom price : 0% Website : csgoempire-ws
+30/11 18:43  Price:"85.00" Coins:143.21 Name:"★ Hydra Gloves | Emerald (Field-Tested)" S:  4% B:  3% Custom price : 0% Website : csgoempire-ws
+30/11 18:58  Price:"85.00" Coins:143.21 Name:"★ Hydra Gloves | Emerald (Field-Tested)" S:  4% B:  3% Custom price : 0% Website : csgoempire-ws
+30/11 19:24  Price:"85.00" Coins:143.21 Name:"★ Hydra Gloves | Emerald (Field-Tested)" S:  4% B:  3% Custom price : 0% Website : csgoempire-ws
+30/11 21:25  Price:"148.90" Coins:250.89 Name:"AWP | Lightning Strike (Factory New)" S:  4% B:  2% Custom price : 0% Website : csgoempire-ws
+30/11 22:47  Price:"84.49" Coins:142.36 Name:"★ Hydra Gloves | Emerald (Field-Tested)" S:  5% B:  4% Custom price : 0% Website : csgoempire-ws
+01/12 10:05  Price:"133.29" Coins:224.58 Name:"★ Hand Wraps | Badlands (Field-Tested)" S:  4% B:  2% Custom price : 0% Website : csgoempire-ws
+02/12 14:35  Price:"96.85" Coins:163.19 Name:"★ Hand Wraps | Spruce DDPAT (Field-Tested)" S:  5% B:  3% Custom price : 0% Website : csgoempire-ws
+05/12 11:22  Price:"102.18" Coins:172.17 Name:"★ Talon Knife | Urban Masked (Battle-Scarred)" S: 10% B:  4% Custom price : 0% Website : csgoempire-ws
+05/12 11:33  Price:"82.33" Coins:138.72 Name:"M4A4 | Asiimov (Field-Tested)" S:  5% B:  2% Custom price : 0% Website : csgoempire-ws
+05/12 16:45  Price:"70.61" Coins:118.97 Name:"★ Flip Knife | Rust Coat (Battle-Scarred)" S:  4% B:  2% Custom price : 0% Website : csgoempire-ws
+05/12 17:24  Price:"61.33" Coins:103.33 Name:"AK-47 | Case Hardened (Field-Tested)" S:  4% B:  2% Custom price : 0% Website : csgoempire-ws
+06/12 06:47  Price:"82.86" Coins:139.62 Name:"★ Bayonet | Scorched (Well-Worn)" S: 29% B:  7% Custom price : 0% Website : csgoempire-ws
+06/12 12:03  Price:"65.23" Coins:109.9 Name:"★ Huntsman Knife | Ultraviolet (Field-Tested)" S:  7% B:  5% Custom price : 0% Website : csgoempire-ws
+06/12 21:56  Price:"635.23" Coins:635.9 Name:"★ Driver Gloves | Crimson Weave (Minimal Wear)"
